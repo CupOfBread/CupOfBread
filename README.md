@@ -3,7 +3,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/CupOfBread" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=CupOfBread" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=CupOfBread&show_icons=true&theme=buefy" >
 
   </a>
 </p>
